@@ -1,6 +1,6 @@
 <!-- ============================================================
      HOWARD'S GITHUB PROFILE README
-     Creative Hybrid — Dev + Designer + Composer
+     Creative Hybrid — Dev + Designer + Cloud
      ============================================================ -->
 
 <div align="center">
