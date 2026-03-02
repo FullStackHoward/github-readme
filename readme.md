@@ -63,7 +63,7 @@ const howard = {
 | **[MrHoward.net](https://mrhoward.net)** | Creative portfolio — motion + brand | Next.js · Lottie · Photoshop · Illustrator | 🟢 Live |
 | **[Notch64.com](https://notch64.com)** | A Laravel App serving dynamic content for my hobby brand | PHP · Laravel · Blade | 🟢 Live |
 | **ViceGamers.com → Django** | Converting static site for gamers to full Django app | Python · Django · PostgreSQL · Tailwind | 🟡 In Progress |
-| **ViceCreators.com → Django** | Converting static site for creatives to full Django app | Python · Django · PostgreSQL · Tailwind | 🟡 In Progress |
+| **ViceCreators.com → Django** | Converting static site for creatives to full Django app | Python · Django · PostgreSQL · Tailwind | 🔵 Planning |
 
 
 ---
@@ -207,28 +207,3 @@ Currently deepening expertise in cloud infrastructure and modern DevOps practice
 
 </div>
 
-<!-- ============================================================
-     SETUP CHECKLIST — remove this comment block before publishing
-     
-     1. Replace YOUR_GITHUB_USERNAME with your actual GitHub username
-        (appears in 3 places in the Stats section)
-     
-     2. Update the LinkedIn URL with your actual profile link
-     
-     3. Update email address if different from hello@howard.codes
-     
-     4. "Currently Building" table — keep this fresh. 
-        Status key: 🟢 Live  🟡 In Progress  🔴 Paused  🔵 Planning
-     
-     5. "Currently Learning" progress bars — update the █ fills 
-        manually every few weeks. Each full bar = 20 blocks (████).
-        Formula: (percentage / 100) * 20 = number of filled blocks
-     
-     6. To create your special profile repo:
-        - Create a NEW repo named exactly: YOUR_GITHUB_USERNAME
-        - Make it public
-        - Initialize with a README
-        - Paste this content into that README.md
-        - The repo name matching your username is what makes it 
-          show up on your profile page automatically
-     ============================================================ -->
