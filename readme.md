@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a3a1a,100:2d5a2d&height=200&section=header&text=Howard&fontSize=72&fontColor=00FF7F&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Designer%20%7C%20Digital%20Marketer&descAlignY=58&descColor=a0a0b0&animation=fadeIn" />
 
 <!-- TYPING ANIMATION BADGE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF7F&center=true&vCenter=true&width=520&lines=Building+things+that+look+good+%26+work+great;Engineer+%2B+Designer+%2B+Digital+Marketer;Currently%3A+Laravel+%2B+Next.js+%2B+cloud+infrastructure;Open+to+senior+roles+%26+select+freelance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF7F&center=true&vCenter=true&width=520&lines=Building+things+that+look+good+%26+work+great;Engineer+%2B+Designer+%2B+Digital+Marketer;Learning:%3A+Laravel+%2B+DJango+%2B+Next.js+%2B+cloud+infrastructure;Open+to+senior+roles+%26+select+freelance)](https://git.io/typing-svg)
 
 <br/>
 
