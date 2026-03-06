@@ -62,8 +62,10 @@ const howard = {
 | **[FullStackHoward.com](https://fullstackhoward.com)** | Freelance business hub + lead capture | Next.js · Formspree · Cal.com | 🟢 Live |
 | **[MrHoward.net](https://mrhoward.net)** | Creative portfolio — motion + brand | Next.js · Lottie · Photoshop · Illustrator | 🟢 Live |
 | **[Notch64.com](https://notch64.com)** | A Laravel App serving dynamic content for my hobby brand | PHP · Laravel · Blade | 🟢 Live |
-| **ViceGamers.com → Django** | Converting static site for gamers to full Django app | Python · Django · PostgreSQL · Tailwind | 🟡 In Progress |
-| **ViceCreators.com → Django** | Converting static site for creatives to full Django app | Python · Django · PostgreSQL · Tailwind | 🔵 Planning |
+| **[ViceGamers.com](https://vicegamers.com)**| Migrated the website from static to dynamic, leveraging a Django API for content integration | Python · Django · PostgreSQL | 🟢 Live |
+| **[ViceCreators.com](https://vicecreators.com)** | Converting static site for creatives to full Django app | Python · Django · PostgreSQL | 🟢 Live |
+| **Vicers API** | Developed a comprehensive Django REST API serving ViceGamers and ViceCreators, offering bi-directional event synchronization with Discord, an announcements system, and a fully dynamic frontend for both sites | Python · Django · PostgreSQL · Node.js · PM2 · GitHub Actions | 🟢 Comleted |
+| **BigNotch.com → Laravel** | Converting wordpress music to full Laravel app | PHP · Laravel · Blade | 🟡 In Progress |
 
 
 ---
